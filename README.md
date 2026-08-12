@@ -1,4 +1,4 @@
-<img width="699" height="782" alt="Screenshot 2026-08-12 at 10 26 53 PM" src="https://github.com/user-attachments/assets/ce00193a-b755-48aa-9fb3-92af94e44f05" />
+
 # Quizzy
 
 A simple and interactive multiple-choice quiz application built with HTML, CSS, and JavaScript. Questions are fetched randomly from the Open Trivia Database API.
